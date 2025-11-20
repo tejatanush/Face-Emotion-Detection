@@ -13,9 +13,7 @@ Predicting results
 ### Compiler Type:  
 I used a compiler GPU provided in google colab while running this project.
 ## Results  
-### This model acheived training accuracy of 0.9845 and validation accuracy of 0.9962 .
 ## Prediction
-![Prediction](https://github.com/tejatanush/Traffic_Sign_Detection/blob/main/Traffic_sign_prediction.png)
 ## References
 [Face emotion detection Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)                                                                                                         
 ## Requirements  
